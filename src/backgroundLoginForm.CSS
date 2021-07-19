@@ -1,0 +1,44 @@
+
+
+.button1 {
+	border-radius: 5px;
+}
+
+.buttonSetting{
+ -fx-background-color:  #2E86C1 ;
+ 
+}
+
+.border{
+	
+ -fx-border-color:  #2E86C1 ;
+ 
+}
+
+.whitebackground{
+	
+ -fx-background-color:  #FFFFFF ;
+ 
+}
+
+.buttonSetting2{
+ -fx-background-color:  #2E86C1 ;
+ -fx-background-radius:  50 50 50 50 ;
+ 
+ 
+}
+
+.border2{
+	
+ -fx-border-color:  #BF0B18 ;
+  -fx-background-color:  #2E86C1 ;
+ -fx-background-radius:  50 50 50 50 
+ 
+}
+
+.fontFill{
+	
+ -fx-text-fill:  #BF0B18 ;
+ 
+}
+
