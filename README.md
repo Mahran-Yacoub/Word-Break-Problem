@@ -27,7 +27,7 @@
    
   # Screenshot of GUI
   
-   ![Screenshot 2021-07-19 100500](https://user-images.githubusercontent.com/77076151/126117249-d59a5aa0-af1a-421b-bc1e-65c6e8295204.png)
+   ![Screenshot 2021-07-19 100500](https://user-images.githubusercontent.com/77076151/126122622-650bf9cd-ddab-4c90-9b77-7fb38c2383bb.png)
 
   
    
